@@ -6,3 +6,4 @@ clases: 0 es no diabético, 1 prediabético, y 2 diabético.
 
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv
 
+Se aprenderá un clasificador para verificar su calidad.
